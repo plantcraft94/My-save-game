@@ -1,0 +1,9 @@
+{
+	"VSync": "Off",
+	"FrameRate": "120FPS",
+	"AntiAliasing": "FSR",
+	"ResolutionScale": "50.0",
+	"MaxAnisotropy": "2X",
+	"MasterVolume": "11.0",
+	"AudioSpeakerType": "Headphones"
+}
